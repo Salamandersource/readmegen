@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^6.5.2"
   }
-}
-"scripts": {
-  "start": "script.js"
 }
